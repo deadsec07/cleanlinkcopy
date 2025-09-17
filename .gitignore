@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Node/Editor junk (even though this is plain MV3)
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+package-lock.json
+*.log
+
+# Build artifacts
+dist/
+build/
+*.zip
+*.crx
+*.pem
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+#chrome store related marketing stuff
+chrome_store
