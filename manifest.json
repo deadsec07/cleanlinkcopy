@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "CleanLink Copy — Strip UTM & Tracking",
   "version": "1.0.3",
-  "description": "Copy the current page URL without tracking params (utm_*, gclid, fbclid, etc.) + merge non tracking params, preferring the canonical link.",
+  "description": "Copy the current page URL without tracking params (utm_*, gclid, fbclid, etc.) + merge non tracking params.",
   "action": { "default_title": "Copy clean link" },
   "permissions": ["activeTab", "scripting", "clipboardWrite", "storage", "contextMenus"],
   "background": { "service_worker": "background.js" },
