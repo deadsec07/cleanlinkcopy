@@ -3,6 +3,7 @@
 CleanLink Copy is a privacy-friendly URL cleaning extension by A A Hasnat and HNE Technologies. It removes common tracking parameters and prefers canonical URLs so shared links stay cleaner and less noisy.
 
 Links:
+- Chrome Web Store: https://chromewebstore.google.com/detail/cleanlink-copy-%E2%80%94-strip-ut/pijfjbpgbjhblchfcffhldelddoephlk?authuser=0&hl=en
 - GitHub: https://github.com/deadsec07/cleanlinkcopy
 - Main site: https://hnetechnologies.com/
 - Creator profile: https://deadsec07.github.io/
